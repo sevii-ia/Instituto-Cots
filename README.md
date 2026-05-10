@@ -32,20 +32,6 @@ Depending on the exercise or practice task, the repository may include:
 
 ---
 
-## 📁 Project Structure
-
-```txt
-Instituto-Cots/
-├── public/
-├── src/
-├── server/
-├── assets/
-├── package.json
-└── README.md
-````
-
----
-
 ## 🎯 Purpose
 
 The purpose of this repository is:
