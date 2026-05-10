@@ -72,9 +72,3 @@ This repository is primarily for educational purposes, but suggestions and impro
 This project is licensed under the MIT License.
 
 See the [LICENSE](LICENSE) file for more information.
-
----
-
-## 👨‍💻 Author
-
-Created by [sevii-ia](https://github.com/sevii-ia)
