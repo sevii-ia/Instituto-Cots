@@ -28,10 +28,7 @@ Depending on the exercise or practice task, the repository may include:
 - HTML5
 - CSS3
 - JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
+- PHP
 
 ---
 
