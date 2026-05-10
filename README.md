@@ -42,8 +42,6 @@ The repository mainly includes:
 * Shell
 * PowerShell
 
-GitHub currently shows HTML, PHP, CSS, and JavaScript as the main languages used in the repository. ([GitHub][1])
-
 ## Purpose
 
 The goal of this repository is to:
@@ -111,9 +109,3 @@ To contribute:
 This project is licensed under the MIT License.
 
 See the [LICENSE](LICENSE) file for more information.
-
-```
-The repository is public, has folders for `Primer Curso` and `Segundo Curso`, and is licensed under MIT. 
-```
-
-[1]: https://github.com/sevii-ia/Instituto-Cots "GitHub - sevii-ia/Instituto-Cots: Exercises with Academia Cots · GitHub"
