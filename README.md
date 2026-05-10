@@ -1,6 +1,3 @@
-# README.md
-
-````md
 # Instituto Cots
 
 This repository contains educational and practice files created during studies and learning activities.
@@ -82,13 +79,10 @@ See the [LICENSE](LICENSE) file for more information.
 
 Created by [sevii-ia](https://github.com/sevii-ia)
 
-````
-
 ---
 
 # LICENSE
 
-```txt
 MIT License
 
 Copyright (c) 2026 sevii-ia
@@ -108,5 +102,3 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-
-````
