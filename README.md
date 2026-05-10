@@ -110,7 +110,7 @@ To contribute:
 
 This project is licensed under the MIT License.
 
-See the `LICENSE` file for more information.
+See the [LICENSE](LICENSE) file for more information.
 
 ```
 The repository is public, has folders for `Primer Curso` and `Segundo Curso`, and is licensed under MIT. 
